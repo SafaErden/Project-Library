@@ -24,9 +24,6 @@ A simple library application built with HTML, CSS & Javascript.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <!-- <a href="https://github.com/PhillipUg/library"> -->
-    <!-- <img src="app/assets/images/library.jpeg" alt="Logo" width="80" height="80"> -->
-  </a>
 
   <h1 align="center">Library</h1>
 
@@ -34,11 +31,11 @@ A simple library application built with HTML, CSS & Javascript.
     This project is part of the Microverse curriculum and is done as an exercise in the Javascript section.
     <br />
     <br />
-    <a href="https://rawcdn.githack.com/PhillipUg/library/4c8618cdd357352c0e2a1abfe112a9b068bf1d3c/index.html">View Demo</a>
+    <a href="https://rawcdn.githack.com/SafaErden/Project-Library/6cee52a4b024aa2be7038f1512d2b96b02475d75/index.html">View Demo</a>
     ·
-    <a href="https://github.com/PhillipUg/library/issues">Report Bug</a>
+    <a href="https://github.com/SafaErden/Project-Library/issues">Report Bug</a>
     ·
-    <a href="https://github.com/PhillipUg/library/issues">Request Feature</a>
+    <a href="https://github.com/SafaErden/Project-Library/issues">Request Feature</a>
   </p>
 </p>
 
@@ -64,14 +61,14 @@ This project's purpose is to practive Javascript concepts like DOM manipulation 
 
 To use this app locally, this is what you need to:
 
-* [Download](https://github.com/PhillipUg/library/archive/master.zip) or clone this repo:
+* [Download](https://github.com/SafaErden/Project-Library/archive/master.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:PhillipUg/library.git
+    git@github.com:SafaErden/Project-Library.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/PhillipUg/library.git
+    https://github.com/SafaErden/Project-Library.git
   ```
  
 
@@ -83,7 +80,7 @@ This project was built using these technologies.
 * Chrome Dev Tools
 
 ### Live Demo
-[Live Demo](https://rawcdn.githack.com/PhillipUg/library/4c8618cdd357352c0e2a1abfe112a9b068bf1d3c/index.html)
+[Live Demo](https://rawcdn.githack.com/SafaErden/Project-Library/6cee52a4b024aa2be7038f1512d2b96b02475d75/index.html)
 
 <!-- CONTACT -->
 ## Contact
