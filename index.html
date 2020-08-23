@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Library</title>
+  <link rel="stylesheet" href="library.css">
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+</head>
+
+<body>
+
+      <h1 class="w-100 text-center"> Library App</h1>
+      <div class="button-container">
+           <input type="submit" value="Add Book" id="addBook" class="btn btn-primary">
+      </div>
+
+      <div class="form-container">
+        <form action="" class="hidden form-group" id="hidden">
+          <div class="form-group">
+            <label for="title">Book Title</label>
+            <input type="text" class="form-control" id="title" name="title">
+          </div>
+          <div class="form-group">
+            <label for="author">Author:</label>
+            <input type="text" class="form-control" id="author" name="author">
+          </div>
+          <div class="form-group">
+            <label for="pages">Number of Pages:</label>
+            <input type="number" class="form-control"  id="pages" name="pages">
+          </div>
+          <button type="submit" class="btn btn-primary" value="Add" id="add">Submit</button>
+        </form> 
+      </div>
+  <div class="container" id="container">
+  </div>
+  <script src="app.js" type="module"></script>
+</body>
+
+</html>
